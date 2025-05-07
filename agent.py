@@ -18,7 +18,7 @@ def extract_code(text: str) -> str:
 
 
 client = Groq(
-    api_key='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',
+    api_key='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',
 )
 
 with open('game.py', 'r') as f:

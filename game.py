@@ -97,7 +97,7 @@ processing_message = "Processing..."
 
 # Groq client initialization
 client = Groq(
-    api_key='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',
+    api_key='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',
 )
 
 def draw_world():
